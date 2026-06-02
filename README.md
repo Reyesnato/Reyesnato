@@ -1,6 +1,20 @@
 <a href="https://reyesnato.github.io/personal-website-v2/" target="_blank"><img src="Banner.png" /></a> 
 
 
+<h1 align="center"> Hello There 👋 </h1>
+
+<h3 align="center">About Me :</h3>
+
+<p>
+🎓 8th semester Computer Systems Engineering student
+<br>📱 Mobile dev: <strong>Kotlin | Java | SQLite</strong> – I love creating apps that look great and work smoothly
+<br>🐍 Python automation | 🤖 Arduino | 🗄️ SQL databases
+<br>🎭 4 years as Artistic Director & Technique Teacher in Folkloric Ballet – leadership, teamwork & discipline
+<br>🔐 Cisco certified: Networking & Cybersecurity
+<br>💡 Constantly learning. Open to freelance projects, internships, and collaborations
+<br>
+<br><p align="center"><i>✨ Let's build something amazing together ✨</i></p>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 
 
